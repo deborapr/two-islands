@@ -1,6 +1,6 @@
 # two-islands
 
-_"Diversity patterns and speciation processes ina two-island system with continuous migration"_, by
+REFERENCE:_"Diversity patterns and speciation processes ina two-island system with continuous migration"_, by
 Debora Princepe, Simone Czarnobai, Thiago M. Pradella, Rodrigo A. Caetano,Flavia M. D. Marquitti, Marcus A.M. de Aguiar, and Sabrina B. L. Araujo
 
 We provide two codes, both written in FORTRAN:
